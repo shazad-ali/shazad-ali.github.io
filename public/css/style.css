@@ -3,18 +3,18 @@
    ========================================================================== */
 
 .welcome{
-  padding:40px 0px;
+  padding:30px 0px;
   background:#529abb;
   color:white;
 }
 
 .welcome h1{
-  font-size:57px;
+  font-size:53px;
   font-family:"Raleway";,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .welcome h3{
-  font-size:31px;
+  font-size:25px;
 }
 
 .code-icon{
