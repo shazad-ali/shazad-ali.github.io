@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .welcome{
-  padding:60px 0px;
+  padding:40px 0px;
   background:#529abb;
   color:white;
 }
@@ -14,7 +14,7 @@
 }
 
 .welcome h3{
-  font-size:41px;
+  font-size:31px;
 }
 
 .code-icon{
