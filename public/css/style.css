@@ -1,0 +1,41 @@
+/* ==|== primary styles =====================================================
+   Author Haroon
+   ========================================================================== */
+
+.welcome{
+  padding:60px 0px;
+  background:#529abb;
+  color:white;
+}
+
+.welcome h1{
+  font-size:57px;
+  font-family:"Raleway";,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.welcome h3{
+  font-size:41px;
+}
+
+.code-icon{
+  font-size:41px;
+}
+
+
+.skills {
+  padding: 60px 0;
+  background:#FAFAFA;
+  font-family:'AvenirNextLTW01-Regular', Helvetica, sans-serif;
+}
+
+.skills h1 {
+  line-height:47px;
+  letter-spacing:1px;
+  font-weight:bold;
+  color: #444;
+}
+.skills p {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom:21px;
+}

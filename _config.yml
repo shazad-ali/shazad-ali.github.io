@@ -1,0 +1,10 @@
+title:        Mbu Institute
+tagline:      "Giving Dawah in Coventry, UK"
+url:          http://mbuinstitute.co.uk
+author:
+  name:       "haroon"
+  email:      "haroon.ahmed25@gmail.com"
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     10
