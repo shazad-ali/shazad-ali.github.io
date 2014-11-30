@@ -1,16 +1,16 @@
 /* ==|== primary styles =====================================================
-   Author Haroon
+   Author Shazad
    ========================================================================== */
 
 .welcome{
-  padding:30px 0px;
+  padding:11px 0px;
   background:#529abb;
   color:white;
 }
 
 .welcome h1{
   font-size:53px;
-  font-family:"Raleway";,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:"Raleway";"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .welcome h3{
