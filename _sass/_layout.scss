@@ -12,18 +12,6 @@
 .showcase-image{
   padding:17px 0;
 }
-/*
-* -- LAYOUT STYLES --
-* These are some useful classes which I will need
-*/
-.l-box {
-  padding: 1em;
-}
-
-.l-box-lrg {
-  padding: 2em;
-  border-bottom: 1px solid rgba(0,0,0,0.1);
-}
 
 .is-center {
   text-align: center;
@@ -34,46 +22,18 @@
 * Customize how my .pure-menu looks at the top of the page
 */
 
-.home-menu {
-  padding: 25px 17px;
-  text-align: center;
-  box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+.top-bar {
 
-  .pure-menu-heading {
+  .name h1 a{
     color: #cecece;
-    font-weight: 400;
-    font-size: 41px;
-    text-transform:capitalize;
-    letter-spacing:-3px;
+    font-size: 21px;
+    letter-spacing:-2px;
 
     .small-heading{
       font-size:17px;
       letter-spacing:0px;
     }
   }
-
-  .pure-menu-selected a {
-    color: #cecece;
-  }
-
-  a {
-    color: #cecece;
-  }
-  li a:hover,
-  li a:focus {
-    background: none;
-    border: none;
-    color: #AECFE5;
-  }
-}
-.home-menu.pure-menu-open {
-  background: #1e1e20;
-}
-.pure-menu.pure-menu-open.pure-menu-fixed {
-  /* Fixed menus normally have a border at the bottom. */
-  border-bottom: none;
-  /* I need a higher z-index here because of the scroll-over effect. */
-  z-index: 4;
 }
 
 /* This is the class used for the dark-background areas. */
