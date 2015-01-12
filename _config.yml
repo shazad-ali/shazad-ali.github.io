@@ -1,10 +1,14 @@
-title:        Mbu Institute
-tagline:      "Giving Dawah in Coventry, UK"
-url:          http://mbuinstitute.co.uk
-author:
-  name:       "haroon"
-  email:      "haroon.ahmed25@gmail.com"
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     10
+# Site settings
+title: Shazad Ali
+email: shazadali09@hotmail.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  My personal website, blog and work.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://shazad-ali.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  shazad-ali
+
+permalink: /blog/:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown
