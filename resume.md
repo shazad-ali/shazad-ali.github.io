@@ -8,8 +8,6 @@ permalink: /resume/
 **D.O.B:** 17/09/1988
 **Email:** shazadali09@hotmail.co.uk
 
-## Personal Statement
-
 I am a fun, confident, hardworking, creative, trustworthy and reliable individual with a
 huge imagination.
 
@@ -63,4 +61,4 @@ At Coventry City College **Grade: GCSE/EQV D* (4 A*)**
 
 ## Refrences
 
-Reference available if requested
+Reference available on request
