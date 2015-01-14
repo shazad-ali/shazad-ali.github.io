@@ -6,9 +6,13 @@ permalink: /about/
 
 # A little bit about me
 
-I graduated from Staffordshire University in 2014. I am a hardworking, trustworthy and reliable individual with a wide imagination. I love to meet new people and make new friends. I learn new skills and adapt to new experiences quickly and effectively. I love challenges and I am full of confidence who loves to expand my knowledge and experience in various subjects. I love creating assets for games and aspire to work within the industry as a 3D Animation Artist, Character Designer or Environment Artist.
+I graduated from Staffordshire University in 2014.
 
-I have used extensively Adobe Photoshop, Autodesk 3Ds Max, Autodesk Maya, Zbrush, Unity and Unreal Engine 4.
+I love challenges and I am full of confidence, I enjoy learning as it helps me develop my understanding.
+
+I enjoy creating assets for games and aspire to work within the industry as a 3D animation artist, character designer or environment artist.
+
+I have used extensively Adobe photoshop, Autodesk 3Ds max, Autodesk maya, Zbrush, Unity and Unreal engine 4.
 
 ## Contact me
 
