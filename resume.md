@@ -14,20 +14,15 @@ I am a fun, confident, hardworking, creative, trustworthy and reliable individua
 huge imagination.
 
 I have recently graduated from Staffordshire university in computer games design. I
-strive to become a 3D Environment Artist by practicing, evolving and adapting to new
-experiences. I love designing and building environment pieces and working in a
-team. I have many unique and interesting ideas which I would love to express to the
-industry.
+strive to become a 3D environment artist. I love designing and building environment pieces and working in a
+team. I have many unique and interesting ideas which I would love to express to the industry.
 
 ## Key Skills & Achievements
 
-I've acquired a wide range of skills in Computer Games Design from GCSE to
-degree level. This has helped expand my skill set with exceptional punctuality,
-communication and teamwork, with a great eye for detail. I enjoy working to strict
-deadlines and working under pressure accurately and efficiently. For example, I have
-worked in a university project taking the role of a producer. I managed a group of 25
-students to create a survival horror game. My task involved organising students, task
-management, project planning and environment design.
+I have acquired a wide range of skills in computer games design from GCSE to
+degree level. My education has helped develop skills such as punctuality,
+communication, teamwork and a great eye for detail. I enjoy working to strict
+deadlines and working under pressure. One of my biggest achievements include working on a university project  in the role of a producer. I managed a group of 25 students to create a survival horror game. My task involved organising students, task management, project planning and environment design.
 
 ###### Programs
 
