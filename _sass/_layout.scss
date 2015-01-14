@@ -22,7 +22,7 @@
 }
 
 .main-text{
-  background:#cecece;
+  background:#ccc;
   .main-title{
     text-align:center;
     letter-spacing: 3px;
@@ -31,6 +31,28 @@
     font-size:49px;
     margin:0px;
   }
+}
+
+// This is a card container
+.card-container {
+  background: #fff; // Background color
+  color: #000; // Text color
+  border: 1px solid #000; // Border
+  radius: 4px; // Border radius
+  shadow: 0 4px 10px black; // Box shadow
+  padding: 1rem;
+  margin: 1rem; // Margin bottom
+}
+
+// This is a card divider
+.card-divider {
+  background: #ccc;
+  padding: 1rem;
+}
+
+// This is a card section
+.card-section {
+  padding: 1rem;
 }
 
 /*
