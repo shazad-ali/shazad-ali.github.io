@@ -10,40 +10,42 @@ permalink: /resume/
 
 ## Personal Statement
 
-I am a hardworking, unique, trustworthy and reliable individual with a wide imagination. I love to
-meet new people and make new friends. I learn new skills and adapt to new experiences quickly
-and effectively. I love challenges and I am full of confidence who loves to expand my knowledge
-and experience in various subjects. I love creating assets for games and aspire to work within
-the industry as a 3D Animation Artist, Character Designer or Environment Artist. I have many
-unique and interesting ideas which I would love to take further.
+I am a fun, confident, hardworking, creative, trustworthy and reliable individual with a
+huge imagination.
+
+I have recently graduated from Staffordshire university in computer games design. I
+strive to become a 3D Environment Artist by practicing, evolving and adapting to new
+experiences. I love designing and building environment pieces and working in a
+team. I have many unique and interesting ideas which I would love to express to the
+industry.
 
 ## Key Skills & Achievements
 
-I have acquired a wide range of skills/knowledge in Computer Games Design at a GCSE, A level
-and a degree standard. I am proficient in using programs such as
+I've acquired a wide range of skills in Computer Games Design from GCSE to
+degree level. This has helped expand my skill set with exceptional punctuality,
+communication and teamwork, with a great eye for detail. I enjoy working to strict
+deadlines and working under pressure accurately and efficiently. For example, I have
+worked in a university project taking the role of a producer. I managed a group of 25
+students to create a survival horror game. My task involved organising students, task
+management, project planning and environment design.
 
-- Adobe Photoshop
-- Autodesk 3Ds Max
-- Autodesk Maya
+###### Programs
+
+- Adobe photoshop
+- Autodesk 3Ds max
+- Autodesk maya
 - Zbrush
 - Unity
-- Unreal Development Kit.
-- Microsoft Office Packages
+- Unreal development kit.
+- Microsoft office packages
 
-My skill set also expands with outstanding punctuality, communication, and teamwork skills. I
-enjoy working to strict deadlines and working under pressure accurately and efficiently. Criticism
-is welcomed to improve on my task/work. I have worked in a project at university as the role of a
-producer, successfully managing a group of 25 students to create a game. My task involved
-dividing students into groups, setting task for each person, acknowledging their strengths and
-weaknesses, managing, and project planning (setting contingencies).
+###### Strengths
 
-My strengths are listed below
-
-- 3D Animation
-- Character Rigging
-- Character Artist
-- Environment Artist
-- Level Designer
+- Environment artist
+- Character rigging
+- 3D animation
+- Character artist
+- Level designer
 
 ## Education
 
@@ -58,11 +60,11 @@ At Coventry City College **Grade: GCSE/EQV D* (4 A*)**
 
 ## Personal Intrests
 
-- Playing Computer Games and keeping up to date
-- Creating Game Assets and Animations
-- Football, Cricket, Snooker, Tennis and badminton
-- Socialising with friends and travelling
-- Reading articles in general
+- Computer games, films and reading comics
+- Creating game assets
+- Football, cricket, pool and snooker
+- Socialising with friends
+- Personal interest in technology
 
 ## Refrences
 
