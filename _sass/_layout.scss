@@ -23,36 +23,19 @@
 
 .main-text{
   background:#ccc;
-  .main-title{
+
+  h1 {
     text-align:center;
-    letter-spacing: 3px;
-    padding:19px 0;
+    padding:33px 0 13px;
     font-family:Lato;
-    font-size:49px;
+    font-size:41px;
     margin:0px;
+    font-weight:bold;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 17px;
   }
-}
-
-// This is a card container
-.card-container {
-  background: #fff; // Background color
-  color: #000; // Text color
-  border: 1px solid #000; // Border
-  radius: 4px; // Border radius
-  shadow: 0 4px 10px black; // Box shadow
-  padding: 1rem;
-  margin: 1rem; // Margin bottom
-}
-
-// This is a card divider
-.card-divider {
-  background: #ccc;
-  padding: 1rem;
-}
-
-// This is a card section
-.card-section {
-  padding: 1rem;
 }
 
 /*
