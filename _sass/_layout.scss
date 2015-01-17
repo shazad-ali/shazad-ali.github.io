@@ -11,6 +11,9 @@
 
 .showcase-image{
   padding:17px 0;
+  h4{
+    color:#cecece;
+  }
 }
 
 .is-center {
@@ -21,6 +24,28 @@
   padding-bottom:14px;
 }
 
+.site-footer {
+  background:#3c3c3c;
+  padding-top:29px;
+  padding-bottom:29px;
+  .wrapper {
+    border-top:1px solid white;
+    color:white;
+    text-align:center;
+
+    .footer-text{
+      padding:17px 0;
+    }
+  }
+}
+
+.site-footer.lighter{
+  background:white;
+  .wrapper {
+    border-top:1px solid black;
+    color:black;
+  }
+}
 .main-text{
   background:#3c3c3c;
 
