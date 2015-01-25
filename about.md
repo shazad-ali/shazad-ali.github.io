@@ -19,7 +19,7 @@ I have used extensively
 - Autodesk maya
 - Zbrush
 - Unity
-- Unreal development kit.
+- Unreal Engine 3 & 4
 - Microsoft office packages
 
 ## Contact me
