@@ -5,8 +5,7 @@
 }
 
 .responsive-img {
-  max-width: 600px;
-  height: auto;
+
 }
 
 .showcase-image{
@@ -81,6 +80,20 @@
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
+}
+
+.site-footer {
+  padding:27px 0;
+  font-size:11px;
+  background:#3c3c3c;
+  color:white;
+  .footer-text{
+    margin-bottom:0;
+  }
+}
+.showcase-text{
+  text-align:center;
+  color:white;
 }
 
 /*
