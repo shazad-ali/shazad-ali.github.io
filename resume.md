@@ -28,7 +28,7 @@ deadlines and under pressure. One of my biggest achievements is working on a uni
 - Autodesk maya
 - Zbrush
 - Unity
-- Unreal development kit.
+- Unreal Engine 3 & 4
 - Microsoft office packages
 
 ###### Strengths
