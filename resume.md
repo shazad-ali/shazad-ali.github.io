@@ -16,10 +16,9 @@ strive to become a Games Designer or an Environment Artist. as  I enjoy creating
 
 ## Key Skills & Achievements
 
-I have acquired a wide range of skills in Computer Games Design from GCSE to
-degree level. My education has helped develop skills such as punctuality,
-communication, teamwork and a great eye for detail. I thrive on working to strict
-deadlines and under pressure. One of my biggest achievements is working on a university project  in the role of a producer. I managed a group of 25 students to create a survival horror game. My task involved organising students, task management, project planning and environment design.
+I have acquired a wide range of skills in Computer Games Design. My education has helped develop skills such as punctuality, communication, teamwork and a great eye for detail. I thrive on working to strict deadlines and under pressure. I have worked closely with programs such as Unity, UDK 3 and 4 for level design, Autodesk Maya and 3DSmax for asset and environment creation, Zbrush for sculpting, painting and projecting high poly detail on lower poly meshes. Extensive knowledge in Photoshop for compositing texture maps. I also have the relevant skills to design documentation with strong storytelling and narratives.
+
+My biggest achievement alongside graduating is working on a university module called Computer Games Design 2A and 2B. This role proved my teamwork and managing skills as I successfully managed a team in creating a small game.
 
 ###### Programs
 
