@@ -12,7 +12,7 @@ I am a fun, confident, hardworking, creative, trustworthy and reliable individua
 huge imagination.
 
 I have recently graduated from Staffordshire University in Computer Games Design. I
-strive to become a 3D Environment Artist as I enjoy designing and building environment pieces. I have many unique and interesting ideas which I believe will be invaluable to the industry.
+strive to become a Games Designer or an Environment Artist. as  I enjoy creating new concepts with strong narrative and storytelling. I am self motivated and happy to learn new skills. I have many unique and interesting ideas which I believe will be invaluable to the industry.
 
 ## Key Skills & Achievements
 
@@ -38,6 +38,32 @@ deadlines and under pressure. One of my biggest achievements is working on a uni
 - 3D animation
 - Character artist
 - Level designer
+
+## Modules studied in my degree
+
+##### Entertainment Research Dissertation - Character Rigging: 2.1 (69%)
+
+Facial and body character rigging was researched in order to create next gen game ready character models. Feature setups included IK, FK snapping and blending, complex spine motions, reverse foot rig, morph targets for facial rigging alongside unique eye, eyebrows and jaw systems. Problem solving was the biggest factor during this process.. A successful character rig was created equivalent to Disney quality.
+
+##### Advanced Modeling and Advance Modeling in Game Engines: First
+
+Objective involved redesigning a fighting game character. I Studied human anatomy and character workflows. Working to a specific criteria brief with strict deadlines.
+
+##### Handheld Game Design: First
+
+My objective involved creating a marvel character for a handheld game. Research involved  understanding polygon limitations and engine restrictions compared to console game characters. Learned CAT (Character Animation Toolkit) in 3dsmax to quickly pose characters for animations.
+
+##### Computer Games Design 2A and 2B: High Concept to Production and Testing: First
+
+I managed a group of 25 students to create a survival horror game. My task involved organizing students, task management, project planning, Design documentation and environment design.  
+
+##### Production Skills for Game Design: First
+
+Assignment objective involved creating a document which manages a small team for theme based asset creation for a Facebook game. Tasks involved project planning, assigning tasks and design documentation, and setting up contingencies to overcome worst case scenario.
+
+##### Computer Design 1A: Design Documentation: First
+
+Reverse engineering a game by recreating the design document for a game of my choosing.  All aspects are covered from Game concept, level design, storytelling, Interface, Marketing and Mechanics.
 
 ## Education
 
