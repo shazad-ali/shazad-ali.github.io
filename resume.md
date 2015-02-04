@@ -12,7 +12,7 @@ I am a fun, confident, hardworking, creative, trustworthy and reliable individua
 huge imagination.
 
 I have recently graduated from Staffordshire University in Computer Games Design. I
-strive to become a Games Designer or an Environment Artist. as  I enjoy creating new concepts with strong narrative and storytelling. I am self motivated and happy to learn new skills. I have many unique and interesting ideas which I believe will be invaluable to the industry.
+strive to become a Games Designer or an Environment Artist. I enjoy creating new concepts with strong narrative and storytelling. I am self motivated and happy to learn new skills. I have many unique and interesting ideas which I believe will be invaluable to the industry.
 
 ## Key Skills & Achievements
 
